@@ -1,3 +1,5 @@
+# The following is a description of the scope of this project, as well as links to the original repository and instructions on how to set up the repository.
+
 # C147/247 Final Project
 ### Winter 2025 - _Professor Jonathan Kao_
 
